@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+  <string name="app_name">Zawaj48</string>
+  <string name="facebook_app_id">270366919446411</string>
+  <string name="fb_login_protocol_scheme">fb270366919446411</string>
+  <string name="facebook_client_token">ed4259804cbcb00edbf4c233b398bca3</string>
+
+
+</resources>

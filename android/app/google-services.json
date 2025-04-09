@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160431708797",
+    "project_id": "zawaj-48",
+    "storage_bucket": "zawaj-48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160431708797:android:f37d7413adbcc66e2a2f14",
+        "android_client_info": {
+          "package_name": "com.stackdeans.zawaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160431708797-iuv2g03sff68a5tpgnid7nnf6cmve3k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stackdeans.zawaj",
+            "certificate_hash": "4f165deacb4ff40012293ce9bee4c34991f78d1d"
+          }
+        },
+        {
+          "client_id": "160431708797-fckpapi27tlnqsmnk3g83m1dvugla7v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-J4Kt663XJtIWt8YtqATNBxUP-qYZP8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160431708797-fckpapi27tlnqsmnk3g83m1dvugla7v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
